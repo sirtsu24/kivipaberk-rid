@@ -1,0 +1,11 @@
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\bin\Debug\netcoreapp2.1\kivi_paber_kaarid.deps.json
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\bin\Debug\netcoreapp2.1\kivi_paber_kaarid.runtimeconfig.json
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\bin\Debug\netcoreapp2.1\kivi_paber_kaarid.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\bin\Debug\netcoreapp2.1\kivi_paber_kaarid.dll
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\bin\Debug\netcoreapp2.1\kivi_paber_kaarid.pdb
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\obj\Debug\netcoreapp2.1\kivi_paber_kaarid.csprojAssemblyReference.cache
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\obj\Debug\netcoreapp2.1\kivi_paber_kaarid.csproj.CoreCompileInputs.cache
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\obj\Debug\netcoreapp2.1\kivi_paber_kaarid.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\obj\Debug\netcoreapp2.1\kivi_paber_kaarid.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\obj\Debug\netcoreapp2.1\kivi_paber_kaarid.dll
+C:\Users\Sirje\Desktop\kivi_paber_kaarid\kivi_paber_kaarid\obj\Debug\netcoreapp2.1\kivi_paber_kaarid.pdb
